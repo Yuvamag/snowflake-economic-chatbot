@@ -7,9 +7,9 @@ from snowflake.snowpark.types import DoubleType
 # -----------------------------------
 
 connection_params = {
-    "account": "EOVAIJT-MP98384",
-    "user": "YUVASREEMAG",
-    "password": r"Rajeshwarilove123$",
+    "account": "<YOUR_SNOWFLAKE_ACCOUNT>",
+    "user": "<YOUR_SNOWFLAKE_USERNAME>",
+    "password": "<YOUR_SNOWFLAKE_PASSWORD>",
     "role": "ACCOUNTADMIN",
     "warehouse": "COMPUTE_WH",
     "database": "ECON_AGENT_DB",
